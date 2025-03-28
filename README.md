@@ -1,5 +1,5 @@
 # Analytics for Good Hackathon 2025 (WINNER!)
-[Fourth Annual Analytics for Good Hackathon] https://www.linkedin.com/feed/update/urn:li:activity:7292944063291346945/
+[Fourth Annual Analytics for Good Hackathon](https://www.linkedin.com/feed/update/urn:li:activity:7292944063291346945/)
 
 
 ## 🎓 Boosting Student Engagement with Analytics
