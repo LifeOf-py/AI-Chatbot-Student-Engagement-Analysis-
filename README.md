@@ -2,9 +2,9 @@
 [Fourth Annual Analytics for Good Hackathon](https://www.linkedin.com/feed/update/urn:li:activity:7292944063291346945/)
 
 
-## 🎓 Boosting Student Engagement with Analytics
+## 🎓 Boosting Student Engagement with Product Analytics
 
-A data-driven case study analyzing the effectiveness of TABot, a smart study assistant used in a university setting. We investigated how engagement impacts academic performance and developed targeted recommendations using segmentation, visual insights, and behavior modeling.
+A data-driven case study analyzing the effectiveness of TABot mobile app, a smart study assistant used in a university setting. We investigated how engagement impacts academic performance and developed targeted recommendations using segmentation, visual insights, and behavior modeling.
 
 ---
 
